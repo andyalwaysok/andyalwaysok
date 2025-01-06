@@ -1,6 +1,8 @@
 ## 🙋‍♂️ **Introducing Myself**
 
-Hello, I'm Andy. Data Analyst with expertise in Cleaning and Manipulating, Data Analyzing, and generating Dashboard and reports.
+![image_alt](https://github.com/andyalwaysok/andyalwaysok/blob/9c620f957499f868ab41e1ecdd93d15be6baebba/data%20analyst.jpg)
+
+Hello, my name is Andy. Data Analyst with expertise in Cleaning and Manipulating, Data Analyzing, and generating Dashboard and reports.
 
 - Data Gathering and Collecting
 - Data Cleaning and Preparation
