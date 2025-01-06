@@ -16,7 +16,7 @@ My expertise lies in turning raw data into actionable insights to drive informed
 
 ## 📚 **Projects**
 
-Welcome to my portfolio!
+Welcome to my [portfolio](https://github.com/andyalwaysok/Portfolio)!
 
 Here, I showcase my projects that highlight my skills in data analysis, problem-solving, and creating actionable insights.
 
