@@ -1,6 +1,6 @@
 ## 🙋‍♂️ **Introducing Myself**
 
-![image_alt](https://github.com/andyalwaysok/andyalwaysok/blob/9c620f957499f868ab41e1ecdd93d15be6baebba/data%20analyst.jpg)
+![image_alt](https://github.com/andyalwaysok/andyalwaysok/blob/d6b3a9e6ebe977e66e0f00b7ebc43745fc2b4e0a/data%20analyst.jpg)
 
 Hello, my name is Andy! 
 
